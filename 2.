@@ -1,0 +1,6 @@
+print("Напишите ширину комнаты: ")
+a = float(input())
+print("Напишите длину комнаты: ")
+b = float(input())
+s = a*b
+print(s)
