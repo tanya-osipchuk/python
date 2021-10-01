@@ -1,0 +1,6 @@
+print("Введите свой рост: ")
+h = int(input())
+print("Введите свой вес: ")
+w = int(input())
+bmi = w/(h*h)
+print(bmi)
